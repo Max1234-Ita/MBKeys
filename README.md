@@ -8,6 +8,8 @@ Buttons are mapped like that:
   - Page Up &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->   Right button
   - Scroll Lock&nbsp;&nbsp;&nbsp; --> Turn emulation On/Off
   
+<img src="pub/MBKeys_01.png" alt="MBKeys screenshot">
+  
 <br>
 <b>Why this program?</b>
 
