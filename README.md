@@ -29,7 +29,7 @@ The code of MBKeys is not optimized, it's just working. Hope it can be useful to
   
   * Program configuration can be changed by manually editing the config.ini file that *must* be placed in the same directory as the main program
   
-  * Keys are mapped by their keystroke value (so *Ins* is *45* and *PgUp* is *33*). Unfortunately no full mapping is proveded here
+  * Keys are mapped by their keystroke value (so *Ins* is *45* and *PgUp* is *33*). Unfortunately no full mapping is provided here, so if you want to change the keys you need to guess the proper codes.
   * Program is not very fast (well, it's fast like a Python script can be): let's say it's good enough for my needs; I got a little improvement by compiling it into a stand-alone .exe, but I would not use it in an intensive gaming session :-)
   
   
