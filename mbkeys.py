@@ -6,9 +6,10 @@ import winsound
 import win32api
 import win32con
 import win32gui
+# import keyboard
 
 from pynput.keyboard import Key, Listener
-from keyboard import is_pressed
+# from keyboard import is_pressed
 from mbk_config import MBKConfig
 
 version = "0.1.1"   # Program version
