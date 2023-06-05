@@ -1,0 +1,513 @@
+('C:\\D_Drive\\Sviluppo\\MBKeys\\build\\MMover.exe\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\calendar.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\inspect.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mbk_config', 'C:\\D_Drive\\Sviluppo\\MBKeys\\mbk_config.py', 'PYMODULE'),
+  ('mimetypes',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\optparse.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pynput',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\__init__.py',
+   'PYMODULE'),
+  ('pynput._info',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\_info.py',
+   'PYMODULE'),
+  ('pynput._util',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\_util\\__init__.py',
+   'PYMODULE'),
+  ('pynput._util.darwin',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\_util\\darwin.py',
+   'PYMODULE'),
+  ('pynput._util.darwin_vks',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\_util\\darwin_vks.py',
+   'PYMODULE'),
+  ('pynput._util.uinput',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\_util\\uinput.py',
+   'PYMODULE'),
+  ('pynput._util.win32',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\_util\\win32.py',
+   'PYMODULE'),
+  ('pynput._util.win32_vks',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\_util\\win32_vks.py',
+   'PYMODULE'),
+  ('pynput._util.xorg',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\_util\\xorg.py',
+   'PYMODULE'),
+  ('pynput._util.xorg_keysyms',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\_util\\xorg_keysyms.py',
+   'PYMODULE'),
+  ('pynput.keyboard',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\keyboard\\__init__.py',
+   'PYMODULE'),
+  ('pynput.keyboard._base',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\keyboard\\_base.py',
+   'PYMODULE'),
+  ('pynput.keyboard._darwin',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\keyboard\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.keyboard._dummy',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\keyboard\\_dummy.py',
+   'PYMODULE'),
+  ('pynput.keyboard._uinput',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\keyboard\\_uinput.py',
+   'PYMODULE'),
+  ('pynput.keyboard._win32',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\keyboard\\_win32.py',
+   'PYMODULE'),
+  ('pynput.keyboard._xorg',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\keyboard\\_xorg.py',
+   'PYMODULE'),
+  ('pynput.mouse',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\mouse\\__init__.py',
+   'PYMODULE'),
+  ('pynput.mouse._base',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\mouse\\_base.py',
+   'PYMODULE'),
+  ('pynput.mouse._darwin',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\mouse\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.mouse._dummy',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\mouse\\_dummy.py',
+   'PYMODULE'),
+  ('pynput.mouse._win32',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\mouse\\_win32.py',
+   'PYMODULE'),
+  ('pynput.mouse._xorg',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\pynput\\mouse\\_xorg.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\socket.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\threading.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\typing.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\uu.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\D_Drive\\Sviluppo\\MBKeys\\venv\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\D_Drive\\Programmi\\Portable Python\\Portable Python-3.10.5 '
+   'x64\\App\\Python\\lib\\zipfile.py',
+   'PYMODULE')])
