@@ -12,8 +12,8 @@ from pynput.keyboard import Key, Listener
 # from keyboard import is_pressed
 from mbk_config import MBKConfig
 
-version = "0.1.1"   # Program version
-
+version = "0.1.2"   # Program version
+author = 'By Massimo Mula, 2021-24'
 soundstatus = {True: 'ON', False: 'OFF'}
 keys_down = []
 key_down = None
@@ -54,7 +54,7 @@ def clear():
 
 
 def print_configuration():
-    welcome_msg = f"MouseButton Keys v.{version}  --  By Massimo Mula, 2021-22"
+    welcome_msg = f"MouseButton Keys v.{version}  --  {author}"
     print('\n')
     print(welcome_msg)
     print('\n')
